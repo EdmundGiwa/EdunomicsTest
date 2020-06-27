@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Light Up wallpaperApp</string>
+    <string name="login_now">Login to start your journey</string>
+    <string name="title">Edunomics</string>
+    <string name="email_txt">Email</string>
+    <string name="password_txt">Password</string>
+    <string name="welcome_to">WELCOME TO \nTHE WORLD OF \nEDUNOMICS</string>
+    <string name="login">Click to Login</string>
+    <string name="hey_there">Hey There :) </string>
+    <string name="lets_go">Lets go</string>
+    <string name="line">--------------</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_up">Login</string>
+    <string name="connect_with">Or Login With</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="autocomplete_search">Autocomplete Search</string>
+    <string name="search_tags">Search By Username</string>
+    <string name="alice">Alice</string>
+    <string name="text">Hey There</string>
+</resources>
